@@ -25,3 +25,18 @@ test.csv - the test set. You must predict the loss value for the ids in this fil
 sample_submission.csv - a sample submission file in the correct format
 
 
+
+
+
+click here for training , testing files
+https://drive.google.com/file/d/1SQQFMm0C5eavPV0Ujqp-nV_Bw94Uvv59/view?usp=sharing 
+
+
+https://drive.google.com/file/d/1_SbCMl9HGmX5RTk6M0Wgmbv18rJMQ0Lz/view?usp=sharing
+
+
+
+
+
+https://drive.google.com/file/d/1mQsv2DDK4tTBmqkn_CSTKxB-GvgwWoPW/view?usp=sharing
+
